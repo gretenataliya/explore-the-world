@@ -75,11 +75,6 @@ This project uses the REST Countries API:
 
 https://restcountries.com
 
-Example endpoint:
-
-https://restcountries.com/v3.1/all
-
-
 ## Summary
 
 This project demonstrates:
